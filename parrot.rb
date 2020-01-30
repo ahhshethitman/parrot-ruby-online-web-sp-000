@@ -3,6 +3,7 @@
 
 
 def parrot(squawk = "Squawk!")
+  
   puts #{squawk}
   
 end
